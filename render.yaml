@@ -1,0 +1,22 @@
+# Exported from Render on 2025-03-10T13:47:59Z
+services:
+- type: web
+  name: Fluxion
+  runtime: node
+  repo: https://github.com/OSTYADO/Fluxion-xmd
+  plan: free
+  envVars:
+  - key: session
+    sync: false
+  - key: prefix
+    sync: false
+  - key: botname
+    sync: false
+  - key: ownername
+    sync: false
+  - key: ownernumber
+    sync: false
+  region: oregon
+  buildCommand: yarn install
+  startCommand: 'yarn start'
+version: "1"
