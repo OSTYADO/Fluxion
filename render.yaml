@@ -3,7 +3,7 @@ services:
 - type: web
   name: Fluxion
   runtime: node
-  repo: https://github.com/OSTYADO/Fluxion-xmd
+  repo: https://github.com/OSTYADO/Fluxion
   plan: free
   envVars:
   - key: session
