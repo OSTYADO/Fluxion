@@ -16,7 +16,7 @@ services:
     sync: false
   - key: ownernumber
     sync: false
-  region: oregon
+  region: frankfurt
   buildCommand: yarn install
   startCommand: 'yarn start'
 version: "1"
