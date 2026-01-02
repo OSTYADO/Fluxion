@@ -1,5 +1,6 @@
 # FLUXION LITE
 <div align="center">
+<p>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=100&color=1BAFBAFF&center=true&width=910&height=100&lines=FLUXION-II;MULTI DEVICE WHATSAPP BOT;CODED BY OSTYADO;FLUXION LITE&repeat=true" 
        alt="Typing SVG" />
