@@ -2,7 +2,7 @@
 <div align="center">
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&pause=100&color=1BAFBAFF&center=true&width=1500&height=150&lines=FLUXION-II%0AMULTI+DEVICE+WHATSAPP+BOT%0ACODED+BY+OSTYADO%0AFLUXION+LITE&repeat=true" 
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=35&pause=100&color=1BAFBAFF&center=true&width=1500&height=150&lines=FLUXION-II%0AMULTI+DEVICE+WHATSAPP+BOT%0ACODED+BY+OSTYADO%0AFLUXION+LITE&repeat=true" 
          alt="Typing SVG" />
   </a>
 </p>
