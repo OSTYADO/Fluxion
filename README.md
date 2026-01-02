@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=FLUXION-II;MULTI+DEVICE+WHATSAPP+BOT;CODED+BY+OSTYADO; ...;FLUXION LITE" alt="Typing SVG" /></a>
   </p>
   <p align="center">
-<img src="https://files.catbox.moe/2zvckc.jpg"/>
+<img src="https://files.catbox.moe/yb2qqc.jpg"/>
 </p>
 
 
@@ -33,7 +33,7 @@
 <p/>
 ## ` Deploy on panel`
 <p align="centre">
-<a href="https://www.mediafire.com/file/u02i5elarr9p4l1/𝙵𝚕𝚞𝚡𝚒𝚘𝚗.2.zip/file"><img height= "37" title="Author" src="https://img.shields.io/badge/Downloadfile-orange?style=for-the-badge&logo=render"></a>
+<a href="https://www.mediafire.com/file/csr98abkar611qu/𝘍𝘭𝘶𝘹𝘪𝘰𝘯-𝘭𝘪𝘵𝘦.zip/file"><img height= "37" title="Author" src="https://img.shields.io/badge/Downloadfile-orange?style=for-the-badge&logo=render"></a>
 <p/>
 
 
