@@ -43,6 +43,9 @@
 [![Download](https://img.shields.io/badge/Download-Fluxion_v2.0.0-green)](https://github.com/OSTYADO/Fluxion/releases/download/V2.0.0/fluxion-v2.0.0.zip)
 
 ![Downloads](https://img.shields.io/github/downloads/OSTYADO/Fluxion/total)
+## ⬇️ Download
+
+[⬇️ Download Fluxion v2.0.0](https://github.com/OSTYADO/Fluxion/releases/download/V2.0.0/fluxion-v2.0.0.zip)
 
 ## ` Contact me`
 
