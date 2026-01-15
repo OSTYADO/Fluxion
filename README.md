@@ -41,7 +41,7 @@
 <a href="https://www.mediafire.com/file/csr98abkar611qu/𝘍𝘭𝘶𝘹𝘪𝘰𝘯-𝘭𝘪𝘵𝘦.zip/file"><img height= "37" title="Author" src="https://img.shields.io/badge/Downloadfile-orange?style=for-the-badge&logo=render"></a>
 <p/>
 
-
+![Downloads](https://img.shields.io/github/downloads/OSTYADO/Fluxion/total)
 
 ## ` Contact me`
 
