@@ -48,12 +48,14 @@
 <p/>
 
 
-
 <p align="center">
 <a href="https://github.com/OSTYADO/Fluxion/releases/download/V2.0.0/FLUXION-LITE.zip">
-  <img src="https://i.imgur.com/0XKzn1B.gif" width="300" alt="Download Fluxion Lite">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=25&pause=800&color=FFA500&center=true&width=450&lines=⬇️+DOWNLOAD+FLUXION+LITE;ONE+CLICK+DIRECT+DOWNLOAD">
 </a>
 </p>
+
+
+
 ## ` Contact me`
 
 <p align="center">
