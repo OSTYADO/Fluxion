@@ -47,6 +47,13 @@
 <a href="https://github.com/OSTYADO/Fluxion/releases/download/V2.0.0/FLUXION-LITE.zip"><img height= "37" title="Author" src="https://img.shields.io/badge/Downloadfile-orange?style=for-the-badge&logo=render"></a>
 <p/>
 
+
+
+<p align="center">
+<a href="https://github.com/OSTYADO/Fluxion/releases/download/V2.0.0/FLUXION-LITE.zip">
+  <img src="https://i.imgur.com/0XKzn1B.gif" width="300" alt="Download Fluxion Lite">
+</a>
+</p>
 ## ` Contact me`
 
 <p align="center">
