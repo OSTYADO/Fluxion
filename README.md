@@ -25,7 +25,9 @@
 <a href="https://github.com/OSTYADO/Fluxion/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OSTYADO/Fluxion-II?label=Watching&style=social"></a>
 </p>
 
-
+<a href="https://github.com/OSTYADO/Fluxion/releases">
+  <img title="Total Downloads" src="https://img.shields.io/github/downloads/OSTYADO/Fluxion/total?style=social">
+</a>
 ## ` Fork this repo`
 <p align="centre">
 <a href="https://github.com/OSTYADO/Fluxion/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK FLUXION" width="160"></a>
@@ -33,14 +35,15 @@
 
 
 ## ` Pair onrender`
-<p align="centre">
+<p align="center">
 <a href="https://fluxy-session.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
 <p/>
+
+
 ## ` Deploy on panel`
-<p align="centre">
+<p align="center">
 <a href="https://github.com/OSTYADO/Fluxion/releases/download/V2.0.0/FLUXION-LITE.zip"><img height= "37" title="Author" src="https://img.shields.io/badge/Downloadfile-orange?style=for-the-badge&logo=render"></a>
 <p/>
-![Total Downloads](https://img.shields.io/github/downloads/OSTYADO/Fluxion/total)
 
 ## ` Contact me`
 
