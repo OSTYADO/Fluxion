@@ -36,7 +36,7 @@
 <p/>
 
 
-## ` Pair onrender`
+## ` Pair site`
 <p align="center">
 <a href="https://fluxy-session.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
 <p/>
@@ -48,11 +48,7 @@
 <p/>
 
 
-<p align="center">
-<a href="https://github.com/OSTYADO/Fluxion/releases/download/V2.0.0/FLUXION-LITE.zip">
-  <img src="https://img.shields.io/badge/⬇️_Download-FLUXION_LITE-green?style=for-the-badge&logo=github">
-</a>
-</p>
+
 
 
 
