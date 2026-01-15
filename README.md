@@ -28,6 +28,8 @@
 <a href="https://github.com/OSTYADO/Fluxion/releases">
   <img title="Total Downloads" src="https://img.shields.io/github/downloads/OSTYADO/Fluxion/total?style=social">
 </a>
+
+
 ## ` Fork this repo`
 <p align="centre">
 <a href="https://github.com/OSTYADO/Fluxion/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK FLUXION" width="160"></a>
