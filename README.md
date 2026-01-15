@@ -40,7 +40,8 @@
 <p align="centre">
 <a href="https://github.com/OSTYADO/Fluxion/releases/download/V2.0.0/FLUXION-LITE.zip"><img height= "37" title="Author" src="https://img.shields.io/badge/Downloadfile-orange?style=for-the-badge&logo=render"></a>
 <p/>
-![Downloads](https://img.shields.io/github/downloads/OSTYADO/Fluxion/total)
+## `Downloads`
+![Latest Downloads](https://img.shields.io/github/downloads/OSTYADO/Fluxion/latest/total)
 
 ## ` Contact me`
 
