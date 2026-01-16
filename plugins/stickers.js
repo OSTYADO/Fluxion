@@ -1,7 +1,7 @@
 require("../settings");
 
-let handler = async (m, { client, text, prefix, pushname, command, reply }) => {
-    if (!m.quoted) return reply(`Reply to an image/video/GIF\nExample: ${prefix + command} Pack|Author`);
+let handler = async (m, { client, text, prefix, pushname, command, reply,res }) => {
+    if (!m.quoted) return res(`Reply to an image/video/GIF\nExample: ${prefix + command} Pack|Author`);
 
     const quoted = m.quoted;
     const mime = quoted.mimetype || "";
@@ -31,7 +31,7 @@ let handler = async (m, { client, text, prefix, pushname, command, reply }) => {
     
     if (/video/.test(mime)) {
         if ((quoted.seconds || 0) > 10)
-            return reply("❌ Max video length is 10 seconds");
+            return res("❌ Max video length is 10 seconds");
 
         const media = await quoted.download();
         return client.sendVideoAsSticker(m.chat, media, m, {
@@ -40,7 +40,7 @@ let handler = async (m, { client, text, prefix, pushname, command, reply }) => {
         });
     }
 
-    reply(`Unsupported media type\nReply image/video/GIF`);
+   res(`Unsupported media type\nReply image/video/GIF`);
 };
 
 handler.help = ["take", "steal", "swm"];
