@@ -27,9 +27,11 @@
 <a href="https://github.com/OSTYADO/Fluxion/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OSTYADO/Fluxion-II?label=Watching&style=social"></a>
 </p>
 
+<!--
 <a href="https://github.com/OSTYADO/Fluxion/releases">
   <img title="Total Downloads" src="https://img.shields.io/github/downloads/OSTYADO/Fluxion/total?style=social">
 </a>
+-->
 
 
 ## ` Fork this repo`
