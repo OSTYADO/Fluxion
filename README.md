@@ -48,7 +48,7 @@
 
 ## ` Deploy on panel`
 <p align="center">
-<a href="https://github.com/OSTYADO/Fluxion/releases/download/V2.0.0/FLUXION-LITE.zip"><img height= "37" title="Author" src="https://img.shields.io/badge/Downloadfile-orange?style=for-the-badge&logo=render"></a>
+<a href="https://www.mediafire.com/file/8le8j78zck6aurf/FLUXION-LITE.zip"><img height= "37" title="Author" src="https://img.shields.io/badge/Downloadfile-orange?style=for-the-badge&logo=render"></a>
 <p/>
 
 
