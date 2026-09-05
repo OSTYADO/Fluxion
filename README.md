@@ -45,16 +45,10 @@
 <p align="center">
 <a href="https://fluxy-session.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
 <p/>
-
-# TELEGRAM
-
-[
-
-![Telegram](https://img.shields.io/badge/Telegram-fluxionmd__bot-2CA5E0?logo=telegram&logoColor=white)
-
-](https://t.me/fluxionmd_bot)
-
-*Written with code driven by logic.*
+## `Telegram `
+<p align="center">
+<a href="https://t.me/fluxionmd_bot"><img height="37" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<p/>
 
 ## ` Deploy on panel`
 <p align="center">
